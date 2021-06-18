@@ -28,6 +28,6 @@ Tools:
 Concepts:
 * Logic App: cloud based serverless function that executes a task based on a trigger. There are no servers; once the task is triggered and completed, no further compute resources are used. Billing is based on time it takes the function or app to execute.
 * Infrastructure as Code: cloud resources created via a declarative state language, such as terraform. There is no cost for terraform (open source), but the resources it creates may have costs in the cloud. Proceed at your own risk.
-* 
+* CI/CD: task automation via pipelines. Abstract tasks to patterns, inputs and outputs.
 
 
