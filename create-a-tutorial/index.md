@@ -32,12 +32,14 @@
 5. Protect
     * file copyright
     * protect materials with copyright notice
-5. publish
+6. References
+    * reference pages / urls
+7. publish
     * source code
     * youtube
     * websites (github pages, medium, etc)
     * tutorial sites (udemy, etc)
-6. market
+8. market
     * peers
     * social media
     
