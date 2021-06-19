@@ -31,4 +31,4 @@ Concepts:
 * CI/CD: task automation via pipelines. Abstract tasks to patterns, inputs and outputs.
 
 
-  ######[Site Root](https://linuxlsr.github.io)
+  ###### [Site Root](https://linuxlsr.github.io)

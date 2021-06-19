@@ -19,4 +19,4 @@ After working in various levels of technology support, I chose to pursue devops 
 - [prior website incarnation](http://soops.threemoonsnetwork.net)
 - [my medium](https://linuxlsr.medium.com/)
 
-######[Site Root](https://linuxlsr.github.io)
+###### [Site Root](https://linuxlsr.github.io)
