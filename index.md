@@ -11,7 +11,7 @@ After working in various levels of technology support, I chose to pursue devops 
 
 ## Resources
 - [aCloudGuru](https://acloud.guru/)
-- [Reading List]
+- [Reading List](https://linuxlsr.github.or/reading-list)
 
 ## Other Connections
 - [my github](https://github.com/linuxlsr)
