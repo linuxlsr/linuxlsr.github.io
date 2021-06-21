@@ -70,5 +70,7 @@ It creates windows plan that allocates resources on the "serverfarms"
 - [Pluralsight: Logic Apps: Getting Started](https://app.pluralsight.com/library/courses/azure-logic-apps-getting-started/table-of-contents)
 - [Pluralsight: Creating Enterprise Logic Apps](https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-logic-app-creating/table-of-contents)
 - [Pluralsight: Logic Apps: Fundamentals](https://app.pluralsight.com/library/courses/azure-logic-apps-fundamentals/table-of-contents)
-
+- [MS Docs: Common scenarios, examples, tutorials, and walkthroughs for Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-examples-and-scenarios)
+- [my first attempt](https://github.com/linuxlsr/az-logic-app-practice)  
+  
   ###### [Site Root](https://linuxlsr.github.io)
