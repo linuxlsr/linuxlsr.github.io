@@ -1,6 +1,6 @@
 # My DevOps Journey
 
-After working in various levels of technology support, I chose to pursue devops as a career. This site is to be a collection of reflections and tutorials, so that I may reflect on my journey, and serve others by passing on what I have learned.
+After working as a 'tech guy' in various vertical markets, I chose to pursue devops/SRE as a career. This site is to be a collection of reflections and tutorials, so that I may reflect on my journey, and serve others by passing on what I have learned.
 
 ## Learning by Teaching
 
