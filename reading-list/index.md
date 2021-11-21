@@ -31,6 +31,22 @@ Books that have captured my interest, and added to Amazon’s Kindle division pr
 - [Scrum: A Breathtakingly Brief and Agile Introduction](<https://smile.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1546956655&sr=1-1&keywords=Scrum%3A+A+Breathtakingly+Brief+and+Agile+Introduction>)
 - [Rapid Development (Developer Best Practices)](<https://smile.amazon.com/Rapid-Development-Devment-Developer-Practices-ebook/dp/B00JDMPOB6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1546956672&sr=1-1&keywords=Rapid+Development+%28Developer+Best+Practices%29>)
 - [Code Complete (Developer Best Practices)](<https://smile.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1546956692&sr=1-1&keywords=Code+Complete+%28Developer+Best+Practices%29>)
+- [The Making of a Manager](<https://smile.amazon.com/gp/product/B079WNPRL2>)
+- [Learn Grafana 7.0](<https://smile.amazon.com/gp/product/B089GRT4JZ>)
+- [Pro Git](<https://smile.amazon.com/gp/product/B01ISNIKES>)
+- [Linux Basics for Hackers](<https://smile.amazon.com/gp/product/B077WWRK8B>)
+- [Seeking SRE](<https://smile.amazon.com/gp/product/B07GQ2YY1D>)
+- [The Five Dysfunctions of a Team](<https://smile.amazon.com/gp/product/B006960LQW>)
+- [The Cucumber Book: Behaviour-Driven Development for Testers and Developers](<https://smile.amazon.com/gp/product/B06XR5S98S>)
+- [The Practice of Cloud System Administration](<https://smile.amazon.com/gp/product/B00N7N2CRQ>)
+- [Dynatrace APM Tool](<https://smile.amazon.com/gp/product/B01N5LDP81>)
+- [Head First C#](<https://smile.amazon.com/gp/product/B00ERG0H7E>)
+- [Kubernetes Best Practices](<https://smile.amazon.com/gp/product/B081J62KLW>)
+- [Prometheus: Up & Running](<https://smile.amazon.com/gp/product/B07FCV2VVG>)
+- [Raspberry Pi Computing: Monitoring with Prometheus and Grafana](<https://smile.amazon.com/gp/product/B0852Q337B>)
+- [Learning Python](<https://smile.amazon.com/gp/product/B00DDZPC9S>)
+- [The Lean Startup](<https://smile.amazon.com/gp/product/B004J4XGN6>)
+
 
 - And… pretty much anything written by [Jim Butcher](https://smile.amazon.com/Jim-Butcher/e/B001H6U718/ref=sr_ntt_srch_lnk_1?qid=1544478338&sr=8-1) for the [Dresden Files](https://smile.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Ddigital-text&field-keywords=The+Dresden+Files)
 
