@@ -16,7 +16,7 @@ After working as a 'tech guy' in various vertical markets, I chose to pursue dev
 ## Other Connections
 - [my github](https://github.com/linuxlsr)
 - [twitter](https://www.twitter.com/linuxlsr)
-- [prior website incarnation](http://soops.threemoonsnetwork.net)
+- [prior website incarnation](https://linuxlsr.github.io/soops_site/)
 - [my medium](https://linuxlsr.medium.com/)
 
 ###### [Site Root](https://linuxlsr.github.io)
