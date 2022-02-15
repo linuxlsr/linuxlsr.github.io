@@ -44,3 +44,6 @@ Anyway, I am grateful to the folks at [A Cloud Guru](https://acloud.guru/), [Lin
 Update: I kid you not, the minute I published this article, I got an email directing me to look at my certification in the portal. Yep, there it is, 24 or so hours later. So much for instant gratification, but glad to have the proof at long last!
 ![](AWS_Certified_Logo_SOA_588x300_Color-300x44.png)
 ![](AWS_Certified_Tag__SOA_294x230-Black.jpg)
+
+
+###### [Site Root](https://linuxlsr.github.io/soops_site/)

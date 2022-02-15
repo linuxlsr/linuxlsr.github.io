@@ -26,3 +26,6 @@ So, I published [my first story](http://soops.threemoonsnetwork.net/2017/09/24/s
 My next goal is to build out my consulting site. I’ve done a fair bit of work over the years, just need to document the projects and put them up. I haven’t had the need to do this before, so the site wont win any prizes for a while. The useful part was that I had a chance to put in [my first VPC with public and private subnets](http://soops.threemoonsnetwork.net/2017/09/24/first-vpc-my-little-buddy/), and get my websites all playing nice on the same instance. It gave me a chance to learn a bit about [Apache’s ServerAlias directive](https://httpd.apache.org/docs/2.2/vhosts/name-based.html). I’ve been putting duplicate entries with ServerName changes in my v-hosts.conf file all these years. Could have saved me some typing!
 
 See, the stories just come to me, so the challenge is writing and publishing them. One step at a time.
+
+
+###### [Site Root](https://linuxlsr.github.io/soops_site/)

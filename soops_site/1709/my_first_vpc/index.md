@@ -32,3 +32,6 @@ I had a little trouble figuring out why the mysql traffic wasn’t working betwe
 The fun part was getting the database in RDS to work, as AWS introduced a new interface and I had some fun with Subnet Groups and Security Groups, but that is another story for another day.
 
 So, my personal account is divested from the default VPC, so I feel like my toy box is all cleaned up and put away properly.
+
+
+###### [Site Root](https://linuxlsr.github.io/soops_site/)
